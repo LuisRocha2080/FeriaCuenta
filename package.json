@@ -1,0 +1,13 @@
+{
+  "name": "feriacuenta",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Ventas, compras y ganancia del día para comerciantes de feria y mercado, con teclado grande y sin internet.",
+  "license": "MIT",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "test": "jest --passWithNoTests",
+    "typecheck": "tsc --noEmit"
+  }
+}
